@@ -1,7 +1,8 @@
- Creating a React App with Vite
+Creating a React App with Vite
 
 ---
- Prerequisites
+
+Prerequisites
 
 Before setting up the project, ensure the following tools are installed:
 
