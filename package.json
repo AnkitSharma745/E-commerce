@@ -11,8 +11,23 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
+    "@mui/base": "^5.0.0-beta.61",
+    "@mui/codemod": "^6.1.7",
+    "@mui/icons-material": "^6.1.7",
+    "@mui/lab": "^6.0.0-beta.15",
+    "@mui/material": "^6.1.7",
+    "@mui/styles": "^6.1.7",
+    "@mui/system": "^6.1.7",
+    "@reduxjs/toolkit": "^2.3.0",
+    "aos": "^2.3.4",
+    "axios": "^1.7.7",
+    "formik": "^2.4.6",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "redux": "^5.0.1",
+    "save": "^2.9.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@types/eslint": "^9.6.1",
